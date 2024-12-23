@@ -1,0 +1,18 @@
+!pip install faiss-cpu
+!pip install -qU langchain-openai
+!pip install -qU langchain-community faiss-cpu
+!pip install langchain-openai
+!sudo apt install tesseract-ocr
+!sudo apt install libtesseract-dev
+!pip install pytesseract
+!pip install --upgrade pdfminer.six unstructured
+!apt-get install poppler-utils
+!apt install tesseract-OG
+!pip install langchain
+!pip install langchain-community
+!pip install -qU pypdf
+!pip install pdfminer.six
+!pip install unstructured-inference
+!pip install pi-heif
+!pip install pymupdf pdfminer six pillow-heif unstructured inference unstructured-pytesseract
+!pip install langgraph
